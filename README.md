@@ -157,4 +157,3 @@ created and tested in Homelab
 
 ---
 
-You can copy and paste this directly into your GitHub README file. The formatting should be preserved and provide clear instructions for setting up and using your environment.
